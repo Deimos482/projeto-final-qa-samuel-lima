@@ -68,5 +68,11 @@ Quality Assurance (QA) é uma prática que visa garantir que o software atenda a
 
 ### 6. Conclusão Final
 
-Ao longo deste semestre, aprendi que a Garantia da Qualidade (QA) é essencial para o desenvolvimento de software de alta qualidade. Através dos testes, podemos identificar problemas precocemente, melhorar a experiência do usuário e garantir a confiabilidade do produto final. A ferramenta que mais me chamou a atenção foi o Google Colab, pela praticidade de rodar códigos direto no navegador, sem precisar instalar nada, além de ser ótimo para testar e visualizar rapidamente os resultados dos testes de forma simples e acessível.
+**O que você aprendeu de mais importante?**
+Ao longo deste semestre, aprendi que a Garantia da Qualidade (QA) é essencial para o desenvolvimento de software confiável e eficiente. A principal lição foi entender que os testes não servem apenas para encontrar erros, mas também para melhorar a experiência do usuário e assegurar que o produto final atenda aos padrões esperados desde as fases iniciais do desenvolvimento.
 
+**Como você enxerga a área de QA no seu futuro profissional?**
+Vejo a área de QA como uma parte fundamental da minha carreira profissional. Compreendi que o conhecimento em testes e qualidade agrega muito valor ao trabalho de qualquer desenvolvedor e abre portas para atuar de forma mais completa dentro de uma equipe de tecnologia. Pretendo aprofundar meus conhecimentos e aplicar boas práticas de QA nos projetos que eu venha a desenvolver ou colaborar.
+
+**Qual ferramenta ou tema mais chamou sua atenção e por quê?**
+A ferramenta que mais me chamou a atenção foi o Google Colab. Sua praticidade em permitir a execução de códigos diretamente no navegador, sem necessidade de instalação de softwares, torna o processo de teste mais ágil e acessível. Além disso, facilita a visualização rápida dos resultados, o que é muito útil tanto no aprendizado quanto na aplicação prática de testes.
