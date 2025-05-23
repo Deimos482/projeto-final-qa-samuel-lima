@@ -1,5 +1,3 @@
-# testes/teste_02.py (versão para Colab/Jupyter)
-
 import requests
 
 def test_json_api_jsonplaceholder():
