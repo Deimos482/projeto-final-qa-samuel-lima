@@ -1,0 +1,7 @@
+projeto-final-qa-nome-do-aluno/
+│
+├── README.md
+└── testes/
+    ├── teste_01.py
+    ├── teste_02.py
+    └── teste_03.py
