@@ -1,5 +1,3 @@
-# testes/teste_03.py
-
 import unittest
 
 def soma(a, b):
