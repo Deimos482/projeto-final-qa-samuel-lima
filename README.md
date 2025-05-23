@@ -50,18 +50,21 @@ Quality Assurance (QA) é uma prática que visa garantir que o software atenda a
 - **Objetivo:** Verificar se o endpoint retorna status HTTP 200
 - **Resultado esperado:** Teste passa com sucesso se o status for 200
 - **Arquivo:** `testes/teste_01.py`
+- 📌 **Arquivo:** https://colab.research.google.com/drive/1cq98UjQ3nrCp5z-v9M8qquV8MTTr9Ltr#scrollTo=GkmIOFq1IndS
 
 #### ✅ Teste 02 – Validação de resposta JSON da API JSONPlaceholder
 - **Biblioteca:** `requests`
 - **Objetivo:** Verificar se o endpoint retorna um JSON com a chave 'id' igual a 1
 - **Resultado esperado:** Teste passa com sucesso se a chave 'id' for 1
 - **Arquivo:** `testes/teste_02.py`
+- 📌 **Arquivo:** https://colab.research.google.com/drive/1TpcSPlFhA57mRteHSQbBNOzLtPJjn0on
 
 #### ✅ Teste 03 – Teste de função de soma
 - **Biblioteca:** `unittest`
 - **Objetivo:** Validar se a função de soma retorna o resultado correto
 - **Resultado esperado:** Teste passa com sucesso se a soma for correta
 - **Arquivo:** `testes/teste_03.py`
+- 📌 **Arquivo:** https://colab.research.google.com/drive/1N5eBGQa4R_v7sQPIt5zGJGeVFGh5PJin#scrollTo=x2TQlyFBSgFh
 
 ### 6. Conclusão Final
 
