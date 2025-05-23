@@ -68,5 +68,5 @@ Quality Assurance (QA) é uma prática que visa garantir que o software atenda a
 
 ### 6. Conclusão Final
 
-Ao longo deste semestre, aprendi que a Garantia da Qualidade (QA) é essencial para o desenvolvimento de software de alta qualidade. Através dos testes, podemos identificar problemas precocemente, melhorar a experiência do usuário e garantir a confiabilidade do produto final. A ferramenta que mais me chamou a atenção foi o `pytest`, devido à sua simplicidade e poder na automação de testes.
+Ao longo deste semestre, aprendi que a Garantia da Qualidade (QA) é essencial para o desenvolvimento de software de alta qualidade. Através dos testes, podemos identificar problemas precocemente, melhorar a experiência do usuário e garantir a confiabilidade do produto final. A ferramenta que mais me chamou a atenção foi o Google Colab, pela praticidade de rodar códigos direto no navegador, sem precisar instalar nada, além de ser ótimo para testar e visualizar rapidamente os resultados dos testes de forma simples e acessível.
 
